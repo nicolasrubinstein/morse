@@ -48,6 +48,6 @@ class MorseMessage:
 			return "No-morse"
 	
 
-p1 = MorseMessage("Nicolas Rubinstein")
+p1 = MorseMessage("prueba numero uno")
 
 print(p1.encript())
